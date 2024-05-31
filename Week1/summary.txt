@@ -1,0 +1,15 @@
+- 1 dimensional array
+- 2 dimensional array
+- array filled with zero's vs empty array, the empty array is faster but has garbage values
+- reshape arrays with the reshape method
+- indexing, using fancy indexing
+- slicing everything is done with colons and commas
+- stacking: vstack, hstack, vsplit, hsplit
+
+- any system of linear equations can be solved with linalg.solv, just need to have the matrix A and
+  the 1-D array b
+- Determinant of a matrix, if the value is non zero there is exactly one solution. Only applies to
+  square matrix (2x2, 3x3, etc.)
+- systems with no solutions have a bottom row of something like [ 0.  0. 22.], which means 0 = 22
+  this means that the lines dont intersect
+- systems with infinite solutions = more variables than equations
