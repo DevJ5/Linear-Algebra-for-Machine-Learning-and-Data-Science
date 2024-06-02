@@ -1,0 +1,9 @@
+Multiply vector by vector
+Multiply matrix by vector
+Multiply matrix by matrix
+
+Element wise multiplication
+Cross Product
+Dot Product
+
+Broadcasting
